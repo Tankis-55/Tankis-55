@@ -14,7 +14,7 @@ I'm looking to collaborate on data analysis projects, machine learning models, a
 
 ###  How to Reach Me  
 - GitHub: Tankis-55](https://github.com/Tankis-55)  
-- LinkedIn: https://www.linkedin.com/in/tatiana-kister-251830235/
+- LinkedIn: https://www.linkedin.com/in/tatiana-ki/
 
 ###  Fun Fact  
 I love exploring new technologies, analyzing trends in data, and solving real-world problems with AI. 🚀  
